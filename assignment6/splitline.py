@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Accept sequence of lines and convert to uppercase and print
 #text=input("Enter sequence of lines:")
 #text1=text.split("\n")
 #for i in text1:

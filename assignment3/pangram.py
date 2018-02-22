@@ -1,4 +1,5 @@
 #!/usr/bin/python
+## Pangram is having all the alphabets in a given sentence
 import re
 #s1="The quick brown fox jumps over the lazy dog"
 s1=lower(input("Enter a sentence:"))

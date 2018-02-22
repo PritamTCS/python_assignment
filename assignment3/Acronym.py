@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Forming A Acronym from the given Line
 #s1="Portable Network graphics"
 s1=input("Enter a long name to convert to Acronym:")
 f=""

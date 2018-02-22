@@ -20,7 +20,7 @@ class Developer(Employees):
 
 e=Employees('Ramya','Krishna',10000)
 print(e.form_email('gmail.com'))
-print("The amount of salary incremented:",e.apply_raise())
+print("The amount of salary incremented for Employe:",e.apply_raise())
 d=Developer('Surya','Marni',15000)
 print(d.form_email('outlook.com'))
-print("The amount of salry incremented :",d.apply_raise())
+print("The amount of salry incremented for Developer:",d.apply_raise())

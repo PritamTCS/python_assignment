@@ -1,4 +1,5 @@
 #!/usr/bin/python
+## reading from file and performing some operations
 words=[]
 dic={}
 f=open("/home/tcs/Desktop/Python_Practice/assignment1/sampl.txt","r")

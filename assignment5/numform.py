@@ -1,4 +1,5 @@
 #!/usr/bin/python
+## Script to form numbers from given digits
 l=input("enter digits to form numbers:")
 li=l.split(",")
 print(len(li))

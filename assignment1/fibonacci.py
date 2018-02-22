@@ -1,5 +1,5 @@
 #!/usr/bin/python 
-## Fibonacci series for a given number
+## Fibonacci series for a given number using lists
 
 num = int(input("enter a number :")) 
 i=1

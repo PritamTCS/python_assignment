@@ -1,4 +1,5 @@
 #!/usr/bin/python
+## Adding common key values in 2 dictionaries and forming a new dic
 d1={'a':100,'b':200,'c':300}
 d2={'a':300,'b':200,'e':200}
 d3={}

@@ -1,4 +1,5 @@
 #!/usr/bin/python
+## extracting first& last 2 charcter from a given string
 def pair(s1):
     if len(s1) >2:
         s2=s1[0:2]+s1[-2:]

@@ -1,4 +1,5 @@
 #!/usr/bin/python
+##Sorting a tuple based on last element 
 li=[(2,5,1),(1,2,3),(4,4,6),(2,3,2),(2,1,9)]
 def tup_last(tp):
     print(len(tp)-1)

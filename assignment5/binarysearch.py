@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+## Binary search on sorted list
 li=[7,6,1,2,10,8,3,100,300,200,56,78,90,34,65,23,32,11,45]
 #li.sort()
 #l=input("Enter the list of elements:")

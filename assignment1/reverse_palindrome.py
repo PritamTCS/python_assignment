@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#Palindrome
 inp=input("Enter the string:")
 li=list(inp)
 print(li[::-1])

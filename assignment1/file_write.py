@@ -1,11 +1,12 @@
+#!/usr/bin/python
 import re
 li = []
 while True: 
     string = input("Enter a string:")
-    if string == " ":
-        break
+    if string:
+        li.append(string)
     else:
-	li.append(string)
+        break
 
 print(li)
 li.sort()

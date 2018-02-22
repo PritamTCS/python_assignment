@@ -1,4 +1,5 @@
 #!/usr/bin/python
+## Script to count the alphabets and digits
 import re
 cnt_l=cnt_w=0
 word=input("Enter a Alphanumeric word:")
