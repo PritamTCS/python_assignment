@@ -1,0 +1,16 @@
+def var_len_arg(defl1, defl2,*args,**kwargs):
+    print("First default arquement is :", defl1)
+    print("Second default arguement is :", defl2)
+    print ("Positional Arguement is the following list :")
+    print (args)
+    print ("List of arguements with key/value pair is as follows")
+    print (kwargs)
+    keylist=kwargs.keys()
+    values=kwargs.values()
+    print ("List of keys in the kwargs :" , keylist)
+    print ("List of values in the kwargs :" , values)
+
+print ("Example-1:\n")
+var_len_arg(10,1,2,3,name='ram',age=25)
+print ("Example-2:\n")
+var_len_arg(21,56,45,467,8900,5,90,type='fish',color="white",scale="none")
